@@ -12,15 +12,15 @@ Visit our site  [Old Age Homes Provider]: https://old-age-home-provider.web.app/
 > There is donate option.People can donate any amount of money if they want to any old age home.
 
 ### Key Features
-> Registration
-> Log In
-> About Us
-> Old Age Homes
-> View Services
-> Booking
-> Contact
-> Donate
-> Log Out
+- Registration
+- Log In
+- About Us
+- Old Age Homes
+- View Services
+- Booking
+- Contact
+- Donate
+- Log Out
 
 ### About Project 
 - We've used react to develop the UI of this site
