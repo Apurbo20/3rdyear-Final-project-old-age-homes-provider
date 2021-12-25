@@ -1,0 +1,15 @@
+.about-img {
+    border-radius: 10px;
+    width: 100%;
+}
+.about-text {
+    padding-left: 20px;
+}
+.high {
+    width: 70px;
+    color: #fff;
+    height: 3px !important;
+    margin: 0;
+    opacity: 1.25;
+    background-color: #4fc9e0;
+}
